@@ -31,9 +31,13 @@ This project implements a real-time hand gesture recognition system using MediaP
 ## License
 This project is licensed under the `MIT License`.
 
+## Connect with me
+- [LinkedIn](https://www.linkedin.com/in/sgvkamalakar)
+
 ## Acknowledgements
 - [MediaPipe](https://google.github.io/mediapipe/)
 - [Pygame](https://www.pygame.org/)
+
 
 
       
