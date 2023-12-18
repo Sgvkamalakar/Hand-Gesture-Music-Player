@@ -1,3 +1,8 @@
+
+<p align="center">
+  <img src="https://github.com/Sgvkamalakar/Hand-Gesture-Music-Player/assets/103712713/2eb7e70b-6562-4032-a9b1-8b680327cc40" alt="Hand Gesture Music Player">
+</p>
+
 # Hand Gesture Music Player
 
 This project implements a real-time hand gesture recognition system using MediaPipe and Pygame, allowing users to control music playback through hand movements captured by a webcam.
