@@ -22,16 +22,18 @@ This project implements a real-time hand gesture recognition system using MediaP
 - Pygame
 
 ## Installation
-### Clone the repository:
-   https://github.com/Sgvkamalakar/Hand-Gesture-Music-Player.git
+- Clone the repository   `git clone https://github.com/Sgvkamalakar/Hand-Gesture-Music-Player.git`
    
-### Requirements
-  `pip install -r requirements.txt`
+- Requirements  `pip install -r requirements.txt`
 
 ## Usage
 - Run the main script: `python main.py`
 - Ensure your webcam is connected and visible to the application.
-- Perform various hand gestures as specified to trigger different sounds.  
+- Perform various hand gestures as specified to trigger different sounds.
+  
+<p align="center">
+<img src="https://github.com/pinak22dhir/Python-Gamez-Arena/assets/103712713/1e71e0e8-fd23-4808-b84d-93a8c99c97f7" width="400" height="300"/>
+</p>
 
 ## License
 This project is licensed under the `MIT License`.
